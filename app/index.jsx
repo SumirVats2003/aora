@@ -24,7 +24,7 @@ export default function App() {
     <StyledView className='flex-1 items-center justify-center bg-white'>
       <StyledText className='text-3xl font-pblack'>Aora!</StyledText>
       <StatusBar style='auto' />
-      <StyledLink href='/profile' className='text-blue-500'>
+      <StyledLink href='/home' className='text-blue-500'>
         Go to Profile
       </StyledLink>
     </StyledView>
